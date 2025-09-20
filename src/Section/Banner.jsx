@@ -8,7 +8,7 @@ import BannerCard3 from "../Components/BannerCard3";
 
 const Banner = () => {
     const headingInfo = {
-        h1Name : "Get Paid Faster Instant Cash  for Businesses!",
+        h1Name : "Get Paid Faster  Instant Cash  for Businesses!",
         pName : "Stop waiting months for credit card payments. CASA helps business owners access cash instantly by converting card transactions into immediate funds.",
         btn : "Fast, secure, hastle-free"
 

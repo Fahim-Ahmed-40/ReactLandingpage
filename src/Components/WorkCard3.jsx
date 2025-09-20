@@ -2,8 +2,8 @@ import React from "react";
 import { FaArrowAltCircleRight } from "react-icons/fa";
 import { FaLeaf } from "react-icons/fa";
 import { IoIosAdd } from "react-icons/io";
-import img1 from "../../public/rev/img1.jpg";
-import img2 from "../../public/rev/img2.jpg";
+import img1 from "../../public/rev/male1.jpg";
+import img2 from "../../public/rev/female1.jpg";
 import Button from "./Button";
 const WorkCard3 = () => {
   return (

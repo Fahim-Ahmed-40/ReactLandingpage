@@ -1,4 +1,5 @@
 import React from 'react';
+import FACTO from "../../public/icon/FACTO Logo.png"; 
 
 const Navbar = () => {
     const navItems = <>
@@ -36,8 +37,11 @@ const Navbar = () => {
       </ul>
     </div>
     <div>
-      <a className=" text-4xl font-bold text-start">Facto</a>
-      <p className='text-xs'>Financial Services</p>
+      
+     
+
+<img src={FACTO} alt="FACTO" style={{ width: "150px", height: "auto" }} />
+
     </div>
   </div>
   <div className="navbar-center hidden lg:flex">

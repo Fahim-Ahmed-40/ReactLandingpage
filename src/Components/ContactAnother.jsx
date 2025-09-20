@@ -3,8 +3,8 @@ import { MdGroups } from "react-icons/md";
 import { IoIosCall } from "react-icons/io";
 import { IoIosAdd } from "react-icons/io";
 import Button from "./Button";
-import img1 from '../../public/rev/img1.jpg'
-import img2 from '../../public/rev/img2.jpg'
+import img1 from '../../public/rev/male1.jpg'
+import img2 from '../../public/rev/female1.jpg'
 const ContactAnother = () => {
   return (
     <div className="flex-1 bg-yellow-200 relative p-4 lg:p-8 rounded-lg ">

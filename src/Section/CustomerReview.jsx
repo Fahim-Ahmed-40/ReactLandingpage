@@ -1,8 +1,8 @@
 import React from "react";
 import Heading from "../Components/Heading";
 import CustomerReviewCard from "../Components/CustomerReviewCard";
-import rev1 from "../../public/rev/img1.jpg";
-import rev2 from "../../public/rev/img2.jpg";
+import rev1 from "../../public/rev/male1.jpg";
+import rev2 from "../../public/rev/female1.jpg";
 
 const CustomerReview = () => {
   const headingInfo = {
@@ -21,7 +21,7 @@ const CustomerReview = () => {
     designation: "Restaurent Owner",
   };
   const review2 = {
-    companyName: "Axway",
+    companyName: "Axxway",
     h1Name: "Fast, Reliable, and Stress-Free!",
     pName:
       "CASA has completely transformed my cash flow. As a restaurant owner, waiting for credit card payments used to be a struggle. Now, I get my funds within 24 hours, allowing me to pay suppliers and staff on time. The process is seamless, and the transparency in pricing is a huge plus.!",

@@ -1,6 +1,6 @@
 import React from "react";
 import { FaArrowAltCircleRight } from "react-icons/fa";
-import img1 from "../../public/rev/img2.jpg";
+import img1 from "../../public/rev/male1.jpg";
 const WorkCard2 = () => {
   return (
     <div className="bg-white p-4 rounded-lg">
